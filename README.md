@@ -40,24 +40,24 @@
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=mahammad-mostafa&hide_title=true&show_icons=true&show=reviews&hide_border=true&bg_color=00000000&text_color=fff&text_bold=false"
+      srcset="https://github-readme-stats.vercel.app/api?username=mahammad-mostafa&hide_title=true&show_icons=true&show=reviews&hide_border=true&bg_color=0000&text_color=fff&text_bold=false"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=mahammad-mostafa&hide_title=true&show_icons=true&show=reviews&hide_border=true&bg_color=00000000&text_color=000&text_bold=false"
+      srcset="https://github-readme-stats.vercel.app/api?username=mahammad-mostafa&hide_title=true&show_icons=true&show=reviews&hide_border=true&bg_color=0000&text_color=000&text_bold=false"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="top" width="500px" src="https://github-readme-stats.vercel.app/api?username=mahammad-mostafa&hide_title=true&show_icons=true&show=reviews&hide_border=true&theme=transparent"/>
+    <img height="200px" align="top" src="https://github-readme-stats.vercel.app/api?username=mahammad-mostafa&hide_title=true&show_icons=true&show=reviews&hide_border=true&theme=transparent"/>
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammad-mostafa&hide_title=true&hide_border=true&layout=donut&bg_color=00000000&text_color=fff"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammad-mostafa&hide_title=true&hide_border=true&bg_color=0000&text_color=fff&layout=donut"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammad-mostafa&hide_title=true&hide_border=true&layout=donut&bg_color=00000000&text_color=000"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammad-mostafa&hide_title=true&hide_border=true&bg_color=0000&text_color=000&layout=donut"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="top" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammad-mostafa&hide_title=true&hide_border=true&layout=donut&theme=transparent"/>
+    <img height="240px" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammad-mostafa&hide_title=true&hide_border=true&theme=transparent&layout=donut"/>
   </picture>
 </div>
