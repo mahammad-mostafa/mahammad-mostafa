@@ -8,4 +8,10 @@
 - Always hungry to learn more technologies and apply best practices
 
 # 🪪 Accounts
-[<img src="https://github.com/mahammad-mostafa/mahammad-mostafa/assets/91811315/489fd274-2dbc-414f-ac93-3a4fb6d7cb05"/>](https://linkedin.com/in/mahammad-mostafa)
+[![outlook](https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=fff)](mailto:mahammad.mostafa@hotmail.com) &thinsp;
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/mahammad-mostafa) &thinsp;
+[![twitter](https://img.shields.io/badge/twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=fff)](https://twitter.com/mahammad_mostfa) &thinsp;
+[![angellist](https://img.shields.io/badge/angellist-000000?style=for-the-badge&logo=angellist&logoColor=fff)](https://angel.co/u/mahammad-mostafa) &thinsp;
+[![reddit](https://img.shields.io/badge/reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=fff)](https://www.reddit.com/user/mahammadmostafa) &thinsp;
+[![leetcode](https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=fff)](https://leetcode.com/mahammad-mostafa) &thinsp;
+[![upwork](https://img.shields.io/badge/upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=fff)](https://www.upwork.com/freelancers/~01609451b60842c235) &thinsp;
