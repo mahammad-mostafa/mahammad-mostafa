@@ -51,13 +51,13 @@
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammad-mostafa&hide_title=true&hide_border=true&layout=compact&bg_color=00000000&text_color=fff"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammad-mostafa&hide_title=true&hide_border=true&layout=donut&bg_color=00000000&text_color=fff"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammad-mostafa&hide_title=true&hide_border=true&layout=compact&bg_color=00000000&text_color=000"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammad-mostafa&hide_title=true&hide_border=true&layout=donut&bg_color=00000000&text_color=000"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="top" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammad-mostafa&hide_title=true&hide_border=true&layout=compact&theme=transparent"/>
+    <img align="top" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammad-mostafa&hide_title=true&hide_border=true&layout=donut&theme=transparent"/>
   </picture>
 </div>
