@@ -1,11 +1,18 @@
 <img width="100%" src="https://github.com/mahammad-mostafa/mahammad-mostafa/assets/91811315/272fddf1-03eb-4957-b144-c3e769b3351e" title="Mahammad"/>
 
 # 👤 Information
-🧑‍💻 A software engineer with experience in full-stack web development & native mobile development (Android/iOS) <br/>
-🖥️ Experience in building small commercial & corporate websites for several businesses <br/>
-📱 Solely developed a simple social app like Instagram (Android/iOS) along with the backend <br/>
+🧑‍💻 A software engineer with experience in full-stack web development & native mobile development <br/>
+🖥️ Experience in building small commercial & corporate websites for several businesses ([EIGF] / [TawreedGate] / [ShaghafGroup]) <br/>
+📱 Solely developed a simple social app like Instagram ([Android] / [iOS]) along with the [backend] <br/>
 🧠 Keen on improving problem-solving skills using data structures & algorithms <br/>
 📚 Always hungry to learn more technologies and apply best practices <br/>
+
+[EIGF]:https://www.eigf.net
+[TawreedGate]:https://www.tawreedgate.com
+[ShaghafGroup]:https://www.shaghaf-group.com
+[Android]:https://play.google.com/store/apps/details?id=net.zonetech.yourbook
+[iOS]:https://itunes.apple.com/app/id1456518458
+[backend]:https://www.yoursbooks.com
 
 <br/>
 
@@ -13,8 +20,8 @@
 [<img height="30px" src="https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=fff"/>](mailto:mahammad.mostafa@hotmail.com)
 [<img height="30px" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff"/>](https://linkedin.com/in/mahammad-mostafa)
 [<img height="30px" src="https://img.shields.io/badge/angellist-000000?style=for-the-badge&logo=angellist&logoColor=fff"/>](https://angel.co/u/mahammad-mostafa)
-[<img height="30px" src="https://img.shields.io/badge/reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=fff"/>](https://www.reddit.com/user/mahammadmostafa)
 [<img height="30px" src="https://img.shields.io/badge/twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=fff"/>](https://twitter.com/mahammad_mostfa)
+[<img height="30px" src="https://img.shields.io/badge/reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=fff"/>](https://www.reddit.com/user/mahammadmostafa)
 [<img height="30px" src="https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=fff"/>](https://leetcode.com/mahammad-mostafa)
 [<img height="30px" src="https://img.shields.io/badge/upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=fff"/>](https://www.upwork.com/freelancers/~01609451b60842c235)
 
