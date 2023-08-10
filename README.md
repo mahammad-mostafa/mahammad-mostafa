@@ -48,24 +48,24 @@
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=mahammad-mostafa&hide_title=true&show_icons=true&show=reviews&hide_border=true&bg_color=0000&text_color=fff&text_bold=false"
+      srcset="https://readme-stats.nbank.dev/api?username=mahammad-mostafa&hide_title=true&show_icons=true&show=reviews&hide_border=true&bg_color=0000&text_color=fff&text_bold=false"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=mahammad-mostafa&hide_title=true&show_icons=true&show=reviews&hide_border=true&bg_color=0000&text_color=000&text_bold=false"
+      srcset="https://readme-stats.nbank.dev/api?username=mahammad-mostafa&hide_title=true&show_icons=true&show=reviews&hide_border=true&bg_color=0000&text_color=000&text_bold=false"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="200px" align="top" src="https://github-readme-stats.vercel.app/api?username=mahammad-mostafa&hide_title=true&show_icons=true&show=reviews&hide_border=true&theme=transparent"/>
+    <img height="200px" align="top" src="https://readme-stats.nbank.dev/api?username=mahammad-mostafa&hide_title=true&show_icons=true&show=reviews&hide_border=true&theme=transparent"/>
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammad-mostafa&hide_title=true&hide_border=true&bg_color=0000&text_color=fff&layout=donut"
+      srcset="https://readme-stats.nbank.dev/api/top-langs/?username=mahammad-mostafa&hide_title=true&hide_border=true&bg_color=0000&text_color=fff&layout=donut"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammad-mostafa&hide_title=true&hide_border=true&bg_color=0000&text_color=000&layout=donut"
+      srcset="https://readme-stats.nbank.dev/api/top-langs/?username=mahammad-mostafa&hide_title=true&hide_border=true&bg_color=0000&text_color=000&layout=donut"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="240px" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammad-mostafa&hide_title=true&hide_border=true&theme=transparent&layout=donut"/>
+    <img height="240px" align="top" src="https://readme-stats.nbank.dev/api/top-langs/?username=mahammad-mostafa&hide_title=true&hide_border=true&theme=transparent&layout=donut"/>
   </picture>
 </div>
