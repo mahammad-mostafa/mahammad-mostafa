@@ -20,11 +20,15 @@
 [<img height="30px" src="https://img.shields.io/badge/Outlook-0078D4?logo=microsoftoutlook&logoColor=FFF"/>](mailto:mahammad.mostafa@hotmail.com)
 [<img height="30px" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=FFF"/>](https://linkedin.com/in/mahammad-mostafa)
 [<img height="30px" src="https://img.shields.io/badge/AngelList-000000?logo=angellist&logoColor=FFF"/>](https://angel.co/u/mahammad-mostafa)
-[<img height="30px" src="https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&logoColor=FFF"/>](https://twitter.com/mahammad_mostfa)
-[<img height="30px" src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=FFF"/>](https://medium.com/@mahammad.mostafa)
-[<img height="30px" src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=FFF"/>](https://www.reddit.com/user/mahammadmostafa)
-[<img height="30px" src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=FFF"/>](https://leetcode.com/mahammad-mostafa)
 [<img height="30px" src="https://img.shields.io/badge/UpWork-6FDA44?logo=upwork&logoColor=FFF"/>](https://www.upwork.com/freelancers/~01609451b60842c235)
+<br/>
+[<img height="30px" src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=FFF"/>](https://medium.com/@mahammad.mostafa)
+[<img height="30px" src="https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&logoColor=FFF"/>](https://twitter.com/mahammad_mostfa)
+[<img height="30px" src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=FFF"/>](https://www.reddit.com/user/mahammadmostafa)
+<br/>
+[<img height="30px" src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=FFF"/>](https://leetcode.com/mahammad-mostafa)
+[<img height="30px" src="https://img.shields.io/badge/HackerRank-000000?logo=hackerrank&logoColor=FFF"/>](https://www.hackerrank.com/profile/mahammad_mostafa)
+
 
 <br/>
 
@@ -42,6 +46,7 @@
 <img align="center" width="50px" src="https://github.com/mahammad-mostafa/mahammad-mostafa/assets/91811315/fce54986-9df3-4741-9f05-03f7c9e00354" title="Babel"/> &thinsp;
 <img align="center" width="30px" src="https://github.com/mahammad-mostafa/mahammad-mostafa/assets/91811315/e7b7a3ca-a9a9-45ca-bf86-5364f199febd" title="BootStrap"/> &thinsp;
 <img align="center" width="25px" src="https://github.com/mahammad-mostafa/mahammad-mostafa/assets/91811315/1f2ff25d-d122-44f1-ba1c-51c4a61d4f50" title="Ruby"/> &thinsp;
+<img align="center" width="25px" src="https://github.com/mahammad-mostafa/mahammad-mostafa/assets/91811315/37594328-cf3a-4a91-ad92-d629e8fc7250" title="RSpec"/> &thinsp;
 <img align="center" width="40px" src="https://github.com/mahammad-mostafa/mahammad-mostafa/assets/91811315/fe47cd44-32df-4bf3-bdd9-ad5bd1d30a58" title="PHP"/> &thinsp;
 <img align="center" width="30px" src="https://github.com/mahammad-mostafa/mahammad-mostafa/assets/91811315/ad85eb77-48bc-467f-bf1b-d32e87145a05" title="PostgresSQL"/> &thinsp;
 <img align="center" width="30px" src="https://github.com/mahammad-mostafa/mahammad-mostafa/assets/91811315/7855c6d2-3e0b-4b9d-b425-b9a312723e7e" title="MySQL"/> &thinsp;
