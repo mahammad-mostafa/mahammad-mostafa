@@ -47,6 +47,7 @@
 <img align="center" width="30px" src="https://github.com/mahammad-mostafa/mahammad-mostafa/assets/91811315/e7b7a3ca-a9a9-45ca-bf86-5364f199febd" title="BootStrap"/> &thinsp;
 <img align="center" width="25px" src="https://github.com/mahammad-mostafa/mahammad-mostafa/assets/91811315/1f2ff25d-d122-44f1-ba1c-51c4a61d4f50" title="Ruby"/> &thinsp;
 <img align="center" width="25px" src="https://github.com/mahammad-mostafa/mahammad-mostafa/assets/91811315/37594328-cf3a-4a91-ad92-d629e8fc7250" title="RSpec"/> &thinsp;
+<img align="center" width="25px" src="https://github.com/mahammad-mostafa/mahammad-mostafa/assets/91811315/9abe7f38-c885-44b4-a1df-4847e1a3b892" title="Rails"/> &thinsp;
 <img align="center" width="40px" src="https://github.com/mahammad-mostafa/mahammad-mostafa/assets/91811315/fe47cd44-32df-4bf3-bdd9-ad5bd1d30a58" title="PHP"/> &thinsp;
 <img align="center" width="30px" src="https://github.com/mahammad-mostafa/mahammad-mostafa/assets/91811315/ad85eb77-48bc-467f-bf1b-d32e87145a05" title="PostgresSQL"/> &thinsp;
 <img align="center" width="30px" src="https://github.com/mahammad-mostafa/mahammad-mostafa/assets/91811315/7855c6d2-3e0b-4b9d-b425-b9a312723e7e" title="MySQL"/> &thinsp;
