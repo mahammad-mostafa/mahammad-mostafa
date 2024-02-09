@@ -8,7 +8,7 @@
 📚 Always hungry to learn more technologies and apply best practices <br/>
 
 [EIGF]:https://www.eigf.net
-[TawreedGate]:https://www.tawreedgate.com
+[TawreedGate]:https://www.zone-tech.info/tawreed
 [ShaghafGroup]:https://www.shaghaf-group.com
 [Android]:https://play.google.com/store/apps/details?id=net.zonetech.yourbook
 [iOS]:https://itunes.apple.com/app/id1456518458
