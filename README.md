@@ -54,31 +54,4 @@
 <img align="center" width="30px" src="https://github.com/mahammad-mostafa/mahammad-mostafa/assets/91811315/29a3fe62-d18d-4948-889d-9129264cf37e" title="Java"/> &thinsp;
 <img align="center" width="30px" src="https://github.com/mahammad-mostafa/mahammad-mostafa/assets/91811315/925bd1a4-22dc-417b-927a-e30806a46b7b" title="Swift"/> &thinsp;
 <img align="center" width="30px" src="https://github.com/mahammad-mostafa/mahammad-mostafa/assets/91811315/ace31607-8123-4eb1-add6-05a62a48a198" title="CodeIgniter"/> &thinsp;
-
-<br/><br/>
-
-# 📊 Statistics
-<div align="center">
-  <picture>
-    <source
-      srcset="https://readme-stats.nbank.dev/api?username=mahammad-mostafa&hide_title=true&show_icons=true&show=reviews&hide_border=true&bg_color=0000&text_color=fff&text_bold=false"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://readme-stats.nbank.dev/api?username=mahammad-mostafa&hide_title=true&show_icons=true&show=reviews&hide_border=true&bg_color=0000&text_color=000&text_bold=false"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="200px" align="top" src="https://readme-stats.nbank.dev/api?username=mahammad-mostafa&hide_title=true&show_icons=true&show=reviews&hide_border=true&theme=transparent"/>
-  </picture>
-  <picture>
-    <source
-      srcset="https://readme-stats.nbank.dev/api/top-langs/?username=mahammad-mostafa&hide_title=true&hide_border=true&bg_color=0000&text_color=fff&layout=donut"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://readme-stats.nbank.dev/api/top-langs/?username=mahammad-mostafa&hide_title=true&hide_border=true&bg_color=0000&text_color=000&layout=donut"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="240px" align="top" src="https://readme-stats.nbank.dev/api/top-langs/?username=mahammad-mostafa&hide_title=true&hide_border=true&theme=transparent&layout=donut"/>
-  </picture>
-</div>
+<img align="center" width="30px" src="https://github.com/mahammad-mostafa/mahammad-mostafa/assets/91811315/a7d748c0-a500-4fc9-9fb0-04dfe9b04c8e" title="WordPress"/> &thinsp;
